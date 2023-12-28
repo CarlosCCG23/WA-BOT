@@ -12,8 +12,7 @@ exports.run = {
          about: 'Owner & Creator'
       }], m, {
          org: 'Neoxr Network',
-         website: 'https://api.neoxr.my.id',
-         email: 'contact@neoxr.my.id'
+         website: 'https://shoppy.gg/@CarlosVPSEC',
       })
    },
    error: false,
