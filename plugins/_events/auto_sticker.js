@@ -33,7 +33,7 @@ exports.run = {
       }
    },
    error: false,
-   group: true,
+   group: false,
    cache: true,
    location: __filename
 }
